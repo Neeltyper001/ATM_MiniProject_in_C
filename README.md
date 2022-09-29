@@ -3,7 +3,7 @@
 
 ## -> WARNING AND IMPORTANT POINTS: 
 ### 1. MUST INCLUDE 'gotoxy.h' header file in the same directory if you are running in the codeblocks environment 
-### 2. DO NO COPY PASTE DIRECTLY IN LINUX ENVIRONMENT , though can run in linux environment with minor modifications.
+### 2. DO NO COPY PASTE DIRECTLY IN LINUX ENVIRONMENT or anywhere except for the code blocks , though can run in linux environment with minor modifications.
 ### 3. WHILE RUNNING THIS CODE THE PIN, CARD NUMBER USED ARE ALREADY PREDEFINED SO ONE MUST CHECK THE SCREENSHOTS FOR THE CORRECT ONES.
 
 ## -> Concepts Used
