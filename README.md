@@ -1,5 +1,12 @@
 ## My Mini Project in C
-This is the mini project: "Implementation of ATM machine using C" that I made in first semester
+This is the mini project: "Implementation of ATM machine using C" that I made in first semester.
+
+## Warning : 
+### MUST INCLUDE 'gotoxy.h' header file in the same directory if you are running in the codeblocks environment 
+### DO NO COPY PASTE DIRECTLY IN LINUX ENVIRONMENT , though can run in linux environment with minor modifications.
+
+### Concepts Used
+This mini project is totally based on the simple if else , loop , switches that one can implement easily.
 
 ### Atm machine implementation using C language
 ![Screenshots](/ATM1.png)
