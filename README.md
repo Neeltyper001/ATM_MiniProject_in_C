@@ -1,4 +1,5 @@
-## My Mini Projects
-Here is the list of my mini projects that I have performed over the sems
+## My Mini Project in C
+This is the mini project: "Implementation of ATM machine using C" that I made in first semester
 
 ### Atm machine implementation using C language
+![Screenshots]('\ATM1.png')
